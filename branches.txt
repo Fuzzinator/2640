@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 third branch
 =======
 more stuff in branch 3
@@ -9,3 +10,7 @@ more stuff in branch 3
 more stuff in branch 2
 
 >>>>>>> Branch2
+=======
+more stuff in branch 1
+
+>>>>>>> Branch1
