@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 third branch
+=======
+more stuff in branch 3
+
+>>>>>>> Branch3
