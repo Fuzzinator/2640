@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 second feature 2
+=======
+stuff things
+>>>>>>> Git_Flow_Feat
